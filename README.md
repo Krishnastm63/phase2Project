@@ -2,7 +2,7 @@
 
 • clone project
 
-• Import the “database\database.sql” file to your database administration tool.
+• Import the “database\learners_academy.sql” file to your database administration tool.
 
 • Go to “\src\main\webapp\META-INF\context.xml” file and open it.
 
